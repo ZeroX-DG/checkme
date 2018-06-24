@@ -1,7 +1,7 @@
 checkme
 =======
 
-A simple todo cli app
+A simple todo cli app build with oclif
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
 [![Version](https://img.shields.io/npm/v/checkme.svg)](https://npmjs.org/package/checkme)

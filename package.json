@@ -1,6 +1,6 @@
 {
   "name": "checkme",
-  "description": "A simple todo cli app",
+  "description": "A simple todo cli app build with oclif",
   "version": "1.0.0",
   "author": "Nguyễn Việt Hưng @ZeroX-DG",
   "bin": {
